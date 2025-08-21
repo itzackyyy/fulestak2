@@ -1,0 +1,17 @@
+.TituloPrincipal{
+    color: blueviolet;
+}
+
+body {
+  background-image: linear-gradient(to bottom, #000000, #ffe100); /* Red to Blue, left to right */
+  min-height: 380vh; /* Ensures the gradient covers the full viewport height */
+  margin: 0; /* Removes default body margin */
+}
+
+.descripcion{
+    color: black;
+    text-shadow: 2px 2px 20px white;
+    font-family: Impact;
+    font-size: 30px;
+}
+    
