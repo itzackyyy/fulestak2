@@ -1,4 +1,5 @@
 .TituloPrincipal{
+    padding-left: 650px;
     color: blueviolet;
 }
 
@@ -9,9 +10,25 @@ body {
 }
 
 .descripcion{
+    padding-left: 170px;
     color: black;
     text-shadow: 2px 2px 20px white;
     font-family: Impact;
     font-size: 30px;
 }
-    
+
+
+.Mitsubishi{
+    color: red;
+}
+
+.jp{
+    height: 17px;
+    width: 25px;
+}
+
+
+.catJap{
+    list-style: none;
+    padding-left: 0;
+}
